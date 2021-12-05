@@ -1,5 +1,7 @@
-<name>Elena_V_Kravchenko</name>
-<age>47</age>
-<pets>3</pets>
-<salary>2500</salary>
+{
+  "name":"Elena_V_Kravchenko",
+   "age":47,
+    "pets":3,
+    "salary":2500
+}
 
